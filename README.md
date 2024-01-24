@@ -15,7 +15,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 - [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) -  (1 day ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform version manager (1 day ago)
 - [tofuutils/gotofuenv](https://github.com/tofuutils/gotofuenv) - OpenTofu version manager (1 day ago)
-- [kvendingoldo/alt-docker](https://github.com/kvendingoldo/alt-docker) -  (3 days ago)
+- [tofuutils/community](https://github.com/tofuutils/community) -  (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
