@@ -19,11 +19,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.34.0), today) - Terraform AWS provider
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.4](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.4), 1 day ago) - OpenTofu version manager
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.6](https://github.com/tofuutils/tenv/releases/tag/v1.0.6), 2 days ago) - OpenTofu / Terraform version manager
 - [tofuutils/gotofuenv](https://github.com/tofuutils/gotofuenv) ([v1.0.2](https://github.com/tofuutils/gotofuenv/releases/tag/v1.0.2), 3 days ago) - OpenTofu version manager
 - [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) ([v0.7.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/releases/tag/v0.7.0), 3 days ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.33.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.33.0), 1 week ago) - Terraform AWS provider
 
 #### Stats
 
