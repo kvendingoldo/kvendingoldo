@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform version manager (1 day ago)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (3 days ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) -  (4 days ago)
-- [tofuutils/gotofuenv](https://github.com/tofuutils/gotofuenv) - OpenTofu version manager (4 days ago)
-- [kvendingoldo/alt-docker](https://github.com/kvendingoldo/alt-docker) -  (6 days ago)
+- [kvendingoldo/spring-k8scm](https://github.com/kvendingoldo/spring-k8scm) -  (today)
+- [kvendingoldo/aws-cognito-restore-lambda](https://github.com/kvendingoldo/aws-cognito-restore-lambda) -  (today)
+- [kvendingoldo/grushinka_bot](https://github.com/kvendingoldo/grushinka_bot) -  (today)
+- [kvendingoldo/azure_mi](https://github.com/kvendingoldo/azure_mi) -  (today)
+- [kvendingoldo/toolbox](https://github.com/kvendingoldo/toolbox) -  (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.7](https://github.com/tofuutils/tenv/releases/tag/v1.0.7), 1 day ago) - OpenTofu / Terraform version manager
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.34.0), 1 day ago) - Terraform AWS provider
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.4](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.4), 2 days ago) - OpenTofu version manager
-- [tofuutils/gotofuenv](https://github.com/tofuutils/gotofuenv) ([v1.0.2](https://github.com/tofuutils/gotofuenv/releases/tag/v1.0.2), 4 days ago) - OpenTofu version manager
-- [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) ([v0.7.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/releases/tag/v0.7.0), 4 days ago) - 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.7](https://github.com/tofuutils/tenv/releases/tag/v1.0.7), 2 days ago) - OpenTofu / Terraform version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.34.0), 2 days ago) - Terraform AWS provider
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.4](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.4), 3 days ago) - OpenTofu version manager
+- [tofuutils/gotofuenv](https://github.com/tofuutils/gotofuenv) ([v1.0.2](https://github.com/tofuutils/gotofuenv/releases/tag/v1.0.2), 5 days ago) - OpenTofu version manager
+- [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) ([v0.7.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/releases/tag/v0.7.0), 5 days ago) - 
 
 #### Stats
 
