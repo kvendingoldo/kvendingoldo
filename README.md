@@ -11,18 +11,18 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (2 days ago)
-- [tofuutils/awesome-opentofu](https://github.com/tofuutils/awesome-opentofu) -  (3 days ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (3 days ago)
-- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS. (3 days ago)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (3 days ago)
+- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (3 days ago)
+- [tofuutils/awesome-opentofu](https://github.com/tofuutils/awesome-opentofu) -  (4 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (4 days ago)
+- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS. (4 days ago)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.17.0](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.17.0), 3 days ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.7](https://github.com/tofuutils/tenv/releases/tag/v1.0.7), 6 days ago) - OpenTofu / Terraform / Terragrunt version manager
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.34.0), 6 days ago) - Terraform AWS provider
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.4](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.4), 1 week ago) - OpenTofu version manager
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.5](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.5), 1 day ago) - OpenTofu version manager
+- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.17.0](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.17.0), 4 days ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.7](https://github.com/tofuutils/tenv/releases/tag/v1.0.7), 1 week ago) - OpenTofu / Terraform / Terragrunt version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.34.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.34.0), 1 week ago) - Terraform AWS provider
 - [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) ([v0.7.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/releases/tag/v0.7.0), 1 week ago) - 
 
 #### Stats
