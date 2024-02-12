@@ -11,7 +11,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (5 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (today)
 - [kvendingoldo/terraform-provider-mcdonalds](https://github.com/kvendingoldo/terraform-provider-mcdonalds) -  (5 days ago)
 - [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) -  (1 week ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 week ago)
