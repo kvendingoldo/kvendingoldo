@@ -11,17 +11,17 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (today)
-- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) -  (today)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (1 day ago)
+- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) -  (1 day ago)
 - [kvendingoldo/terraform-provider-mcdonalds](https://github.com/kvendingoldo/terraform-provider-mcdonalds) -  (1 week ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 week ago)
 - [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.15](https://github.com/tofuutils/tenv/releases/tag/v1.0.15), 1 day ago) - OpenTofu / Terraform / Terragrunt version manager
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.36.0), 6 days ago) - Terraform AWS provider
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.5](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.5), 1 week ago) - OpenTofu version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.15](https://github.com/tofuutils/tenv/releases/tag/v1.0.15), 2 days ago) - OpenTofu / Terraform / Terragrunt version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.36.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.36.0), 1 week ago) - Terraform AWS provider
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.5](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.5), 2 weeks ago) - OpenTofu version manager
 - [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.17.0](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.17.0), 2 weeks ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
 - [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) ([v0.7.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/releases/tag/v0.7.0), 3 weeks ago) - 
 
