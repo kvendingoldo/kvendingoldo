@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (today)
 - [kvendingoldo/mks-bot](https://github.com/kvendingoldo/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 days ago)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 days ago)
 - [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) -  (4 days ago)
 - [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) -  (4 days ago)
-- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) -  (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
