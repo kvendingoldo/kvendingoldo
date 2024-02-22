@@ -11,17 +11,17 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (1 day ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (2 days ago)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (4 days ago)
-- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) -  (6 days ago)
-- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) -  (6 days ago)
+- [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (3 days ago)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (5 days ago)
+- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) -  (1 week ago)
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.6](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.6), 5 days ago) - OpenTofu version manager
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.37.0), 6 days ago) - Terraform AWS provider
-- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) ([v0.7.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/releases/tag/v0.7.0), 6 days ago) - 
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.6](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.6), 6 days ago) - OpenTofu version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.37.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.37.0), 1 week ago) - Terraform AWS provider
+- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) ([v0.7.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/releases/tag/v0.7.0), 1 week ago) - 
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.0.15](https://github.com/tofuutils/tenv/releases/tag/v1.0.15), 1 week ago) - OpenTofu / Terraform / Terragrunt version manager
 - [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.17.0](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.17.0), 3 weeks ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
 
