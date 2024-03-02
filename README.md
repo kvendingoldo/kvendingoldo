@@ -11,16 +11,16 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) - Terraform module to manage of Yandex.Cloud CDN resources. (today)
+- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) - Terraform module to manage of Yandex.Cloud CDN resources. (1 day ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (1 week ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (1 week ago)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 week ago)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 weeks ago)
 - [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.4.0), today) - Terraform module to manage of Yandex.Cloud CDN resources.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.39.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.39.0), 1 day ago) - Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.39.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.39.1), 1 day ago) - Terraform AWS provider
+- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.4.0), 1 day ago) - Terraform module to manage of Yandex.Cloud CDN resources.
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.1.1](https://github.com/tofuutils/tenv/releases/tag/v1.1.1), 1 week ago) - OpenTofu / Terraform / Terragrunt version manager
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) ([v1.0.6](https://github.com/tofuutils/tofuenv/releases/tag/v1.0.6), 2 weeks ago) - OpenTofu version manager
 - [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) ([v0.7.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/releases/tag/v0.7.0), 2 weeks ago) - Terraform module to manage Compute Instance resources within the Yandex.Cloud.
