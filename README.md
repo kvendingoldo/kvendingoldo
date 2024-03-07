@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (today)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (today)
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (2 days ago)
 - [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) - Terraform module to manage of Yandex.Cloud CDN resources. (6 days ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (2 weeks ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.3.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.3.0), today) - Terraform module to manage OpenSearch resources.
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v1.0.1](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v1.0.1), today) - pre-commit git hooks to take care of OpenTofu configurations
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.2.0](https://github.com/tofuutils/tenv/releases/tag/v1.2.0), today) - OpenTofu / Terraform / Terragrunt version manager
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v0.16.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v0.16.0), 2 days ago) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.39.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.39.1), 6 days ago) - Terraform AWS provider
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.4.0), 6 days ago) - Terraform module to manage of Yandex.Cloud CDN resources.
 
 #### Stats
 
