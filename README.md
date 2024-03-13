@@ -11,18 +11,18 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (1 day ago)
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (4 days ago)
+- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (2 days ago)
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (5 days ago)
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) - Terraform module to manage of Yandex.Cloud CDN resources. (1 week ago)
 - [nochlezhka/mks-bot](https://github.com/nochlezhka/mks-bot) - Bot for https://github.com/nochlezhka/mks (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.4.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.4.0), 1 day ago) - Terraform module to manage OpenSearch resources.
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v1.0.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v1.0.2), 4 days ago) - pre-commit git hooks to take care of OpenTofu configurations
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.40.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.40.0), 5 days ago) - Terraform AWS provider
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.2.0](https://github.com/tofuutils/tenv/releases/tag/v1.2.0), 5 days ago) - OpenTofu / Terraform / Terragrunt version manager
+- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.4.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.4.0), 2 days ago) - Terraform module to manage OpenSearch resources.
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v1.0.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v1.0.2), 5 days ago) - pre-commit git hooks to take care of OpenTofu configurations
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.40.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.40.0), 6 days ago) - Terraform AWS provider
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.2.0](https://github.com/tofuutils/tenv/releases/tag/v1.2.0), 6 days ago) - OpenTofu / Terraform / Terragrunt version manager
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v0.16.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v0.16.0), 1 week ago) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
 
 #### Stats
