@@ -11,8 +11,8 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (today)
 - [tofuutils/chocolatey-packages](https://github.com/tofuutils/chocolatey-packages) - Chocolatey packages that are managed and maintained by tofuutils team for community package repository (1 day ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (1 day ago)
 - [tofuutils/tenv-github-action](https://github.com/tofuutils/tenv-github-action) -  (6 days ago)
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (4 weeks ago)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 month ago)
