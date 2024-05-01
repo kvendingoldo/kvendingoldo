@@ -19,9 +19,9 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.10.0](https://github.com/tofuutils/tenv/releases/tag/v1.10.0), today) - OpenTofu / Terraform / Terragrunt version manager
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.0](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.0), 1 day ago) - 
 - [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.1.0), 1 day ago) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.9.4](https://github.com/tofuutils/tenv/releases/tag/v1.9.4), 2 days ago) - OpenTofu / Terraform / Terragrunt version manager
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.4.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.4.0), 1 month ago) - Terraform module to manage OpenSearch resources.
 
