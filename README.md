@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (today)
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (today)
 - [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud. (1 day ago)
 - [tofuutils/tenv-nix](https://github.com/tofuutils/tenv-nix) -  (2 days ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (2 days ago)
-- [tofuutils/chocolatey-packages](https://github.com/tofuutils/chocolatey-packages) - Chocolatey packages that are managed and maintained by tofuutils team for community package repository (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
