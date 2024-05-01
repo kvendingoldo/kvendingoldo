@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud. (today)
-- [tofuutils/tenv-nix](https://github.com/tofuutils/tenv-nix) -  (1 day ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (1 day ago)
-- [tofuutils/chocolatey-packages](https://github.com/tofuutils/chocolatey-packages) - Chocolatey packages that are managed and maintained by tofuutils team for community package repository (2 days ago)
-- [tofuutils/tenv-github-action](https://github.com/tofuutils/tenv-github-action) -  (3 weeks ago)
+- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (today)
+- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud. (1 day ago)
+- [tofuutils/tenv-nix](https://github.com/tofuutils/tenv-nix) -  (2 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt version manager (2 days ago)
+- [tofuutils/chocolatey-packages](https://github.com/tofuutils/chocolatey-packages) - Chocolatey packages that are managed and maintained by tofuutils team for community package repository (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.1.0), today) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.9.4](https://github.com/tofuutils/tenv/releases/tag/v1.9.4), 1 day ago) - OpenTofu / Terraform / Terragrunt version manager
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.0](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.0), 1 day ago) - 
+- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.1.0), 1 day ago) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.9.4](https://github.com/tofuutils/tenv/releases/tag/v1.9.4), 2 days ago) - OpenTofu / Terraform / Terragrunt version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.4.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.4.0), 1 month ago) - Terraform module to manage OpenSearch resources.
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v1.0.2](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v1.0.2), 1 month ago) - pre-commit git hooks to take care of OpenTofu configurations
 
 #### Stats
 
