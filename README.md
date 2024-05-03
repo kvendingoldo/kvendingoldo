@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (today)
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (today)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 day ago)
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud. (2 days ago)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
+- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (1 day ago)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 day ago)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 days ago)
+- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.10.1](https://github.com/tofuutils/tenv/releases/tag/v1.10.1), today) - OpenTofu / Terraform / Terragrunt version manager
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.0](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.0), 2 days ago) - 
-- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.1.0), 2 days ago) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.47.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.47.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.4.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.4.0), 1 month ago) - Terraform module to manage OpenSearch resources.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.48.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.48.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.10.1](https://github.com/tofuutils/tenv/releases/tag/v1.10.1), 1 day ago) - OpenTofu / Terraform / Terragrunt version manager
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.0](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.0), 3 days ago) - 
+- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.1.0), 3 days ago) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
 
 #### Stats
 
