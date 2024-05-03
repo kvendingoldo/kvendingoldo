@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [tofuutils/tofulint](https://github.com/tofuutils/tofulint) -  (today)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (today)
 - [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (1 day ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 day ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 days ago)
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
