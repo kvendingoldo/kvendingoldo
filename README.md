@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (today)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 days ago)
 - [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (3 days ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (3 days ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (4 days ago)
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
