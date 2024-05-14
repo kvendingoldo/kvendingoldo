@@ -11,15 +11,15 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
 - [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (1 week ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
 - [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (1 week ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (1 week ago)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.10.2](https://github.com/tofuutils/tenv/releases/tag/v1.10.2), 2 days ago) - OpenTofu / Terraform / Terragrunt version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.0](https://github.com/tofuutils/tenv/releases/tag/v1.11.0), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.26.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.49.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.49.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.0](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.0), 2 weeks ago) - 
