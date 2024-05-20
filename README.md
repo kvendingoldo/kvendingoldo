@@ -11,17 +11,17 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
-- [tofuutils/tenv-nix](https://github.com/tofuutils/tenv-nix) -  (today)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
+- [tofuutils/tenv-nix](https://github.com/tofuutils/tenv-nix) -  (1 day ago)
 - [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (2 weeks ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (2 weeks ago)
 - [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.2](https://github.com/tofuutils/tenv/releases/tag/v1.11.2), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.50.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.50.0), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.2](https://github.com/tofuutils/tenv/releases/tag/v1.11.2), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.50.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.50.0), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.0](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.0), 2 weeks ago) - 
 - [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.1.0), 2 weeks ago) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
 
