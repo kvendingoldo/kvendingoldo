@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [kvendingoldo/testrepo](https://github.com/kvendingoldo/testrepo) -  (today)
+- [tofuutils/zsh-tenv](https://github.com/tofuutils/zsh-tenv) -  (today)
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (today)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
 - [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (1 day ago)
-- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS. (2 days ago)
-- [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection &amp; NixOS (5 days ago)
-- [tofuutils/homebrew-tap](https://github.com/tofuutils/homebrew-tap) - Homebrew formulas that are managed and maintained by tofuutils team. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20), today) - 
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.5](https://github.com/tofuutils/tenv/releases/tag/v1.11.5), 2 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.51.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.51.1), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.26.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.0](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.0), 3 weeks ago) - 
-- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.1.0), 3 weeks ago) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
 
 #### Stats
 
