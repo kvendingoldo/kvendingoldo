@@ -11,18 +11,18 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 day ago)
-- [tofuutils/zsh-tenv](https://github.com/tofuutils/zsh-tenv) -  (1 day ago)
-- [kvendingoldo/testrepo](https://github.com/kvendingoldo/testrepo) -  (1 day ago)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 days ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (2 days ago)
+- [tofuutils/zsh-tenv](https://github.com/tofuutils/zsh-tenv) -  (2 days ago)
+- [kvendingoldo/testrepo](https://github.com/kvendingoldo/testrepo) -  (2 days ago)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.6](https://github.com/tofuutils/tenv/releases/tag/v1.11.6), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.2](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.2), 1 day ago) - 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.51.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.51.1), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.26.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.6](https://github.com/tofuutils/tenv/releases/tag/v1.11.6), 2 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.2](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.2), 2 days ago) - 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.51.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.51.1), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.26.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.26.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.0](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.0), 4 weeks ago) - 
 
 #### Stats
