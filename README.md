@@ -11,7 +11,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (5 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (6 days ago)
 - [tofuutils/zsh-tenv](https://github.com/tofuutils/zsh-tenv) -  (6 days ago)
 - [kvendingoldo/testrepo](https://github.com/kvendingoldo/testrepo) -  (6 days ago)
