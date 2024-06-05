@@ -11,18 +11,18 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) - Terraform module to manage of Yandex.Cloud CDN resources. (today)
-- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS. (1 day ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) - Terraform module to manage of Yandex.Cloud CDN resources. (1 day ago)
+- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS. (2 days ago)
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 week ago)
 - [tofuutils/zsh-tenv](https://github.com/tofuutils/zsh-tenv) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.11.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.11.0), today) - Terraform module to manage of Yandex.Cloud CDN resources.
-- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 1 day ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.52.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.52.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.0.0), today) - Deliver Go binaries as fast and easily as possible
+- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.11.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.11.0), 1 day ago) - Terraform module to manage of Yandex.Cloud CDN resources.
+- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 2 days ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.52.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.52.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v1.11.6](https://github.com/tofuutils/tenv/releases/tag/v1.11.6), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 
 #### Stats
