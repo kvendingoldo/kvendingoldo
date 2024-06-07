@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/cloudexpress-action](https://github.com/kvendingoldo/cloudexpress-action) -  (today)
-- [MagicalDeployment/cloudexpress-action](https://github.com/MagicalDeployment/cloudexpress-action) -  (today)
-- [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (today)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
-- [Hexlet/ru-instructions](https://github.com/Hexlet/ru-instructions) -  (2 days ago)
+- [kvendingoldo/cloudexpress-action](https://github.com/kvendingoldo/cloudexpress-action) -  (today)
+- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (today)
+- [MagicalDeployment/cloudexpress-action](https://github.com/MagicalDeployment/cloudexpress-action) -  (today)
+- [kvendingoldo/testrepo](https://github.com/kvendingoldo/testrepo) -  (today)
 
 #### 🔭 Latest releases I've contributed to
 
