@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
-- [kvendingoldo/cloudexpress-action](https://github.com/kvendingoldo/cloudexpress-action) -  (today)
-- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (today)
-- [MagicalDeployment/cloudexpress-action](https://github.com/MagicalDeployment/cloudexpress-action) -  (today)
-- [kvendingoldo/testrepo](https://github.com/kvendingoldo/testrepo) -  (today)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
+- [kvendingoldo/cloudexpress-action](https://github.com/kvendingoldo/cloudexpress-action) -  (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (1 day ago)
+- [MagicalDeployment/cloudexpress-action](https://github.com/MagicalDeployment/cloudexpress-action) -  (1 day ago)
+- [kvendingoldo/testrepo](https://github.com/kvendingoldo/testrepo) -  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.53.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.0.2](https://github.com/tofuutils/tenv/releases/tag/v2.0.2), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.0.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.11.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.11.0), 3 days ago) - Terraform module to manage of Yandex.Cloud CDN resources.
-- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 4 days ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.0.3](https://github.com/tofuutils/tenv/releases/tag/v2.0.3), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.53.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.53.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.0.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.11.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.11.0), 4 days ago) - Terraform module to manage of Yandex.Cloud CDN resources.
+- [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 5 days ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
 
 #### Stats
 
