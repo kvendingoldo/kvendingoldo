@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [MagicalDeployment/cloudexpress-free-space-action](https://github.com/MagicalDeployment/cloudexpress-free-space-action) -  (1 day ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
+- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (today)
+- [kvendingoldo/alpine-aports-update](https://github.com/kvendingoldo/alpine-aports-update) -  (today)
 - [MagicalDeployment/cloudexpress-action](https://github.com/MagicalDeployment/cloudexpress-action) -  (1 day ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
-- [kvendingoldo/testrepo](https://github.com/kvendingoldo/testrepo) -  (3 days ago)
-- [kvendingoldo/cloudexpress-action](https://github.com/kvendingoldo/cloudexpress-action) -  (3 days ago)
+- [MagicalDeployment/cloudexpress-free-space-action](https://github.com/MagicalDeployment/cloudexpress-free-space-action) -  (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
