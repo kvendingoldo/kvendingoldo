@@ -19,8 +19,8 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.2.1](https://github.com/tofuutils/tenv/releases/tag/v2.2.1), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.2.0](https://github.com/tofuutils/tenv/releases/tag/v2.2.0), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.55.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.55.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.11.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.11.0), 3 weeks ago) - Terraform module to manage of Yandex.Cloud CDN resources.
 - [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 3 weeks ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
