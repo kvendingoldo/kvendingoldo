@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (today)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (3 days ago)
-- [tofuutils/tofulint](https://github.com/tofuutils/tofulint) -  (1 week ago)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 week ago)
+- [tofuutils/tofulint](https://github.com/tofuutils/tofulint) -  (1 week ago)
 - [kvendingoldo/terraform-aws-letsencrypt-lambda](https://github.com/kvendingoldo/terraform-aws-letsencrypt-lambda) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS. (2 weeks ago)
-- [tofuutils/tofuenv](https://github.com/tofuutils/tofuenv) - OpenTofu version manager (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
