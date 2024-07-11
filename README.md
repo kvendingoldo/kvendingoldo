@@ -11,18 +11,18 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (today)
-- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (1 day ago)
+- [wmariuss/awesome-devops](https://github.com/wmariuss/awesome-devops) - A curated list of awesome DevOps platforms, tools, practices and resources (2 days ago)
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) -  (1 week ago)
-- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (1 week ago)
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (2 weeks ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v0.38.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v0.38.0), today) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.4.0](https://github.com/tofuutils/tenv/releases/tag/v2.4.0), 3 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.57.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.57.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
+- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v0.38.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v0.38.0), 1 day ago) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.4.0](https://github.com/tofuutils/tenv/releases/tag/v2.4.0), 4 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.57.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.57.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [tofuutils/asdf-tenv](https://github.com/tofuutils/asdf-tenv) ([v1.0.1](https://github.com/tofuutils/asdf-tenv/releases/tag/v1.0.1), 1 week ago) - 
 
 #### Stats
