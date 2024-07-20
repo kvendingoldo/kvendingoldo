@@ -19,11 +19,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.59.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.59.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc/releases/tag/v1.0.0), 1 day ago) - Terraform module to manage VPC resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) ([v0.24.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/releases/tag/v0.24.0), 2 days ago) - Terraform module to manage Compute Instance resources within the Yandex.Cloud.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.0.0](https://github.com/openbao/openbao/releases/tag/v2.0.0), 3 days ago) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v0.41.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v0.41.0), today) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) ([v0.19.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/releases/tag/v0.19.0), today) - Terraform module to manage OpenSearch resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) ([v0.26.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group/releases/tag/v0.26.0), today) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.20.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.20.0), today) - Terraform module to manage of Yandex.Cloud CDN resources.
+- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.12.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.12.0), today) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
 
 #### Stats
 
