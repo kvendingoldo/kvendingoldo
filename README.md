@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 day ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) - Terraform module to manage VPC resources within the Yandex.Cloud. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (2 days ago)
-- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (5 days ago)
+- [terraform-yacloud-modules/terraform-yandex-certificate-manager](https://github.com/terraform-yacloud-modules/terraform-yandex-certificate-manager) - Terraform module to manage Certificate Manager resources within the Yandex.Cloud (today)
+- [terraform-yacloud-modules/terraform-yandex-address](https://github.com/terraform-yacloud-modules/terraform-yandex-address) - Terraform module to manage address within the Yandex.Cloud (today)
+- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (today)
+- [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) - Terraform module to manage Redis resources within the Yandex.Cloud (today)
+- [terraform-yacloud-modules/terraform-yandex-alb](https://github.com/terraform-yacloud-modules/terraform-yandex-alb) - Terraform module to manage Application Load Balancer (ALB) resources within the Yandex.Cloud. (today)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v0.41.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v0.41.0), today) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) ([v0.19.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/releases/tag/v0.19.0), today) - Terraform module to manage OpenSearch resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) ([v0.26.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group/releases/tag/v0.26.0), today) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v0.20.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v0.20.0), today) - Terraform module to manage of Yandex.Cloud CDN resources.
-- [terraform-yacloud-modules/terraform-yandex-mdb-mysql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql) ([v0.12.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mysql/releases/tag/v0.12.0), today) - Terraform module to manage a MySQL cluster resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v1.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v1.1.0), today) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-module-template](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/releases/tag/v1.0.0), today) - 
+- [terraform-yacloud-modules/terraform-yandex-storage-bucket](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket/releases/tag/v1.0.0), today) - Terraform module to manage Storage (S3) resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-security-group](https://github.com/terraform-yacloud-modules/terraform-yandex-security-group) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-security-group/releases/tag/v1.0.0), today) - Terraform module to manage VPC Security Group resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb/releases/tag/v1.0.0), today) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud.
 
 #### Stats
 
