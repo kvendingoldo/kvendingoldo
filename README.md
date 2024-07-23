@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-certificate-manager](https://github.com/terraform-yacloud-modules/terraform-yandex-certificate-manager) - Terraform module to manage Certificate Manager resources within the Yandex.Cloud (2 days ago)
-- [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) - Terraform module to manage Redis resources within the Yandex.Cloud (2 days ago)
-- [terraform-yacloud-modules/terraform-yandex-storage-bucket](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket) - Terraform module to manage Storage (S3) resources within the Yandex.Cloud. (2 days ago)
-- [terraform-yacloud-modules/terraform-yandex-dns](https://github.com/terraform-yacloud-modules/terraform-yandex-dns) - Terraform module to manage DNS resources within the Yandex.Cloud. (2 days ago)
+- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (2 days ago)
+- [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) - Terraform module to manage VPC resources within the Yandex.Cloud. (3 days ago)
+- [terraform-yacloud-modules/terraform-yandex-redis](https://github.com/terraform-yacloud-modules/terraform-yandex-redis) - Terraform module to manage Redis resources within the Yandex.Cloud (3 days ago)
+- [terraform-yacloud-modules/terraform-yandex-instance-group](https://github.com/terraform-yacloud-modules/terraform-yandex-instance-group) - Terraform module to manage Compute Instance Group resources within the Yandex.Cloud. (3 days ago)
+- [terraform-yacloud-modules/terraform-yandex-dns](https://github.com/terraform-yacloud-modules/terraform-yandex-dns) - Terraform module to manage DNS resources within the Yandex.Cloud. (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v1.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v1.1.0), 2 days ago) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-module-template](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/releases/tag/v1.0.0), 2 days ago) - 
-- [terraform-yacloud-modules/terraform-yandex-storage-bucket](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket/releases/tag/v1.0.0), 2 days ago) - Terraform module to manage Storage (S3) resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-security-group](https://github.com/terraform-yacloud-modules/terraform-yandex-security-group) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-security-group/releases/tag/v1.0.0), 2 days ago) - Terraform module to manage VPC Security Group resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb/releases/tag/v1.0.0), 2 days ago) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v1.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v1.1.0), 3 days ago) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-module-template](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/releases/tag/v1.0.0), 3 days ago) - 
+- [terraform-yacloud-modules/terraform-yandex-storage-bucket](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket/releases/tag/v1.0.0), 3 days ago) - Terraform module to manage Storage (S3) resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-security-group](https://github.com/terraform-yacloud-modules/terraform-yandex-security-group) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-security-group/releases/tag/v1.0.0), 3 days ago) - Terraform module to manage VPC Security Group resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb/releases/tag/v1.0.0), 3 days ago) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud.
 
 #### Stats
 
