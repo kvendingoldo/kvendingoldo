@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) - Terraform module to manage VPC resources within the Yandex.Cloud. (today)
-- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (today)
-- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-storage-bucket](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket) - Terraform module to manage Storage (S3) resources within the Yandex.Cloud. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) - Terraform module to manage VPC resources within the Yandex.Cloud. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (2 days ago)
+- [terraform-yacloud-modules/terraform-yandex-storage-bucket](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket) - Terraform module to manage Storage (S3) resources within the Yandex.Cloud. (2 days ago)
+- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) ([v1.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc/releases/tag/v1.4.0), today) - Terraform module to manage VPC resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/releases/tag/v1.0.0), today) - Terraform module to manage Compute Instance resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v1.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v1.1.0), 4 days ago) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-module-template](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/releases/tag/v1.0.0), 4 days ago) - 
-- [terraform-yacloud-modules/terraform-yandex-storage-bucket](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket/releases/tag/v1.0.0), 4 days ago) - Terraform module to manage Storage (S3) resources within the Yandex.Cloud.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
+- [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) ([v1.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc/releases/tag/v1.4.0), 1 day ago) - Terraform module to manage VPC resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/releases/tag/v1.0.0), 1 day ago) - Terraform module to manage Compute Instance resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v1.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v1.1.0), 5 days ago) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-module-template](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/releases/tag/v1.0.0), 5 days ago) - 
 
 #### Stats
 
