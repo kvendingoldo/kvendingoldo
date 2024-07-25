@@ -19,11 +19,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v2.7.8](https://github.com/tofuutils/tenv/releases/tag/v2.7.8), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) ([v1.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc/releases/tag/v1.4.0), 1 day ago) - Terraform module to manage VPC resources within the Yandex.Cloud.
 - [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-instance/releases/tag/v1.0.0), 1 day ago) - Terraform module to manage Compute Instance resources within the Yandex.Cloud.
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) ([v1.1.0](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes/releases/tag/v1.1.0), 5 days ago) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-module-template](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-module-template/releases/tag/v1.0.0), 5 days ago) - 
 
 #### Stats
 
