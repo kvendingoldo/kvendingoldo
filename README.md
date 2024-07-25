@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
 - [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) - Terraform module to manage VPC resources within the Yandex.Cloud. (1 day ago)
 - [terraform-yacloud-modules/terraform-yandex-instance](https://github.com/terraform-yacloud-modules/terraform-yandex-instance) - Terraform module to manage Compute Instance resources within the Yandex.Cloud. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (2 days ago)
+- [terraform-yacloud-modules/terraform-yandex-address](https://github.com/terraform-yacloud-modules/terraform-yandex-address) - Terraform module to manage address within the Yandex.Cloud (2 days ago)
 - [terraform-yacloud-modules/terraform-yandex-storage-bucket](https://github.com/terraform-yacloud-modules/terraform-yandex-storage-bucket) - Terraform module to manage Storage (S3) resources within the Yandex.Cloud. (2 days ago)
-- [terraform-yacloud-modules/terraform-yandex-kms](https://github.com/terraform-yacloud-modules/terraform-yandex-kms) - Terraform module to manage KMS resources within the Yandex.Cloud. (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
