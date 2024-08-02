@@ -15,7 +15,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 - [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) - Terraform module to manage OpenSearch resources within the Yandex.Cloud. (3 days ago)
 - [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) - Terraform module to manage VPC resources within the Yandex.Cloud. (4 days ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) -  (1 week ago)
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
+- [kvendingoldo/terraform-yandex-mdb-kafka](https://github.com/kvendingoldo/terraform-yandex-mdb-kafka) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
