@@ -19,7 +19,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.2.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.2.0), today) - Deliver Go binaries as fast and easily as possible
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.62.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.62.0), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.0.0](https://github.com/tofuutils/tenv/releases/tag/v3.0.0), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v1.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v1.4.0), 2 weeks ago) - Terraform module to manage of Yandex.Cloud CDN resources.
