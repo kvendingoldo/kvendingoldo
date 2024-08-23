@@ -11,17 +11,17 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-clickhouse](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse) - Terraform module to manage ClickHouse resources within the Yandex.Cloud. (5 days ago)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (2 days ago)
+- [terraform-yacloud-modules/terraform-yandex-mdb-clickhouse](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse) - Terraform module to manage ClickHouse resources within the Yandex.Cloud. (6 days ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) - Terraform module to manage OpenSearch resources within the Yandex.Cloud. (3 weeks ago)
 - [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) - Terraform module to manage of Yandex.Cloud CDN resources. (3 weeks ago)
 - [terraform-yacloud-modules/terraform-yandex-vpc](https://github.com/terraform-yacloud-modules/terraform-yandex-vpc) - Terraform module to manage VPC resources within the Yandex.Cloud. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.63.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.63.1), 2 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.1.0](https://github.com/tofuutils/tenv/releases/tag/v3.1.0), 4 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.64.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.64.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.1.0](https://github.com/tofuutils/tenv/releases/tag/v3.1.0), 5 days ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v1.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v1.4.0), 3 weeks ago) - Terraform module to manage of Yandex.Cloud CDN resources.
 - [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) ([v1.4.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch/releases/tag/v1.4.0), 3 weeks ago) - Terraform module to manage OpenSearch resources within the Yandex.Cloud.
 
