@@ -11,11 +11,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [kvendingoldo/tf_bundle](https://github.com/kvendingoldo/tf_bundle) -  (today)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (5 days ago)
 - [tofuutils/zsh-tenv](https://github.com/tofuutils/zsh-tenv) -  (6 days ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-clickhouse](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse) - Terraform module to manage ClickHouse resources within the Yandex.Cloud. (2 weeks ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-opensearch](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-opensearch) - Terraform module to manage OpenSearch resources within the Yandex.Cloud. (1 month ago)
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) - Terraform module to manage of Yandex.Cloud CDN resources. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
