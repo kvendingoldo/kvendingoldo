@@ -19,7 +19,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.1](https://github.com/tofuutils/tenv/releases/tag/v3.2.1), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), today) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.66.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.66.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.0.1](https://github.com/openbao/openbao/releases/tag/v2.0.1), 6 days ago) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
