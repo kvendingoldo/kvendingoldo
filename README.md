@@ -11,7 +11,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/habr-bq-to-ch](https://github.com/kvendingoldo/habr-bq-to-ch) -  (1 week ago)
+- [kvendingoldo/habr-bq-to-ch](https://github.com/kvendingoldo/habr-bq-to-ch) -  (today)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 week ago)
 - [kvendingoldo/tf_bundle](https://github.com/kvendingoldo/tf_bundle) -  (1 week ago)
 - [tofuutils/zsh-tenv](https://github.com/tofuutils/zsh-tenv) -  (2 weeks ago)
