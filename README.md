@@ -19,7 +19,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v2.3.1), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.3.2](https://github.com/goreleaser/goreleaser/releases/tag/v2.3.2), today) - Deliver Go binaries as fast and easily as possible
 - [terraform-yacloud-modules/terraform-yandex-mdb-clickhouse](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse) ([v0.18.1](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse/releases/tag/v0.18.1), 4 days ago) - Terraform module to manage ClickHouse resources within the Yandex.Cloud.
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.67.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.67.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 1 week ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
