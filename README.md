@@ -11,17 +11,17 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (1 day ago)
-- [CloudOpsKit/projects](https://github.com/CloudOpsKit/projects) -  (2 days ago)
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (today)
+- [CloudOpsKit/consul-acl-operator](https://github.com/CloudOpsKit/consul-acl-operator) -  (2 days ago)
+- [CloudOpsKit/projects](https://github.com/CloudOpsKit/projects) -  (3 days ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-clickhouse](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse) - Terraform module to manage ClickHouse resources within the Yandex.Cloud. (1 week ago)
 - [kvendingoldo/habr-bq-to-ch](https://github.com/kvendingoldo/habr-bq-to-ch) -  (2 weeks ago)
-- [kvendingoldo/tf_bundle](https://github.com/kvendingoldo/tf_bundle) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v1.0.4](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v1.0.4), 3 days ago) - pre-commit git hooks to take care of OpenTofu configurations
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.68.0), 5 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.0.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.0.0), today) - pre-commit git hooks to take care of OpenTofu configurations
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.68.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.68.0), 6 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [terraform-yacloud-modules/terraform-yandex-mdb-clickhouse](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse) ([v0.18.1](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse/releases/tag/v0.18.1), 1 week ago) - Terraform module to manage ClickHouse resources within the Yandex.Cloud.
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.2](https://github.com/tofuutils/tenv/releases/tag/v3.2.2), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 
