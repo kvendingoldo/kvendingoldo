@@ -19,9 +19,9 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.73.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.73.0), today) - The AWS Provider enables Terraform to manage AWS resources.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) ([v2.1.0](https://github.com/tofuutils/pre-commit-opentofu/releases/tag/v2.1.0), 1 week ago) - pre-commit git hooks to take care of OpenTofu configurations
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.72.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.72.1), 1 week ago) - The AWS Provider enables Terraform to manage AWS resources.
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.4](https://github.com/tofuutils/tenv/releases/tag/v3.2.4), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [nochlezhka/mks](https://github.com/nochlezhka/mks) ([2.12.1](https://github.com/nochlezhka/mks/releases/tag/2.12.1), 2 weeks ago) - «МКС» (многофункциональный кабинет соцработника) — CRM-система для организации сопровождения клиентов и учета оказанных услуг, а также для сбора статистики. Проект благотворительной организации «Ночлежка». https://homeless.ru/
 
