@@ -11,10 +11,10 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (today)
 - [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 week ago)
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (3 weeks ago)
 - [tofuutils/setup-tenv](https://github.com/tofuutils/setup-tenv) -  (4 weeks ago)
-- [tofuutils/tenv-github-action](https://github.com/tofuutils/tenv-github-action) -  (4 weeks ago)
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
