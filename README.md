@@ -19,11 +19,11 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.75.1](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.75.1), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.76.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.76.0), today) - The AWS Provider enables Terraform to manage AWS resources.
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.1.0-beta20241114.3](https://github.com/openbao/openbao/releases/tag/v2.1.0-beta20241114.3), today) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.5](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.5), today) - Deliver Go binaries as fast and easily as possible
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.10](https://github.com/tofuutils/tenv/releases/tag/v3.2.10), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/releases/tag/v1.0.0), 2 weeks ago) - 
-- [terraform-yacloud-modules/terraform-yandex-cdn](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn) ([v2.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-cdn/releases/tag/v2.0.0), 2 weeks ago) - Terraform module to manage of Yandex.Cloud CDN resources.
 
 #### Stats
 
