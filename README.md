@@ -11,17 +11,17 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [kvendingoldo/terraform-yandex-clickops-notifier](https://github.com/kvendingoldo/terraform-yandex-clickops-notifier) -  (today)
 - [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (2 weeks ago)
-- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (4 weeks ago)
+- [tofuutils/pre-commit-opentofu](https://github.com/tofuutils/pre-commit-opentofu) - pre-commit git hooks to take care of OpenTofu configurations (1 month ago)
 - [terraform-yacloud-modules/terraform-yandex-kubernetes](https://github.com/terraform-yacloud-modules/terraform-yandex-kubernetes) - Terraform module to manage Kubernetes (K8S) resources within the Yandex.Cloud. (1 month ago)
-- [tofuutils/setup-tenv](https://github.com/tofuutils/setup-tenv) -  (1 month ago)
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.76.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.76.0), today) - The AWS Provider enables Terraform to manage AWS resources.
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.1.0-beta20241114.3](https://github.com/openbao/openbao/releases/tag/v2.1.0-beta20241114.3), today) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.5](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.5), today) - Deliver Go binaries as fast and easily as possible
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.76.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.76.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.1.0-beta20241114.3](https://github.com/openbao/openbao/releases/tag/v2.1.0-beta20241114.3), 1 day ago) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.5](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.5), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.10](https://github.com/tofuutils/tenv/releases/tag/v3.2.10), 2 weeks ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [terraform-yacloud-modules/terraform-yandex-mdb-kafka](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-kafka/releases/tag/v1.0.0), 2 weeks ago) - 
 
