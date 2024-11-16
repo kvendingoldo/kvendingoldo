@@ -11,19 +11,19 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/terraform-yandex-clickops-notifier](https://github.com/kvendingoldo/terraform-yandex-clickops-notifier) -  (today)
-- [terraform-yacloud-modules/terraform-yandex-function](https://github.com/terraform-yacloud-modules/terraform-yandex-function) - Terraform module to manage Function resources within the Yandex.Cloud. (today)
 - [terraform-yacloud-modules/terraform-yandex-audit-trails](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails) - Terraform module to manage Audit Trails resources within the Yandex.Cloud. (today)
-- [terraform-yacloud-modules/terraform-yandex-logging-group](https://github.com/terraform-yacloud-modules/terraform-yandex-logging-group) - Terraform module to manage Cloud Logging resources within the Yandex.Cloud. (today)
+- [terraform-yacloud-modules/terraform-yandex-logging-group](https://github.com/terraform-yacloud-modules/terraform-yandex-logging-group) - Terraform module to manage Cloud Logging resources within the Yandex.Cloud. (1 day ago)
+- [kvendingoldo/terraform-yandex-clickops-notifier](https://github.com/kvendingoldo/terraform-yandex-clickops-notifier) -  (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-function](https://github.com/terraform-yacloud-modules/terraform-yandex-function) - Terraform module to manage Function resources within the Yandex.Cloud. (1 day ago)
 - [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [openbao/openbao](https://github.com/openbao/openbao) ([v2.0.3](https://github.com/openbao/openbao/releases/tag/v2.0.3), today) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
-- [terraform-yacloud-modules/terraform-yandex-audit-trails](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails/releases/tag/v1.0.0), today) - Terraform module to manage Audit Trails resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-function](https://github.com/terraform-yacloud-modules/terraform-yandex-function) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-function/releases/tag/v1.0.0), today) - Terraform module to manage Function resources within the Yandex.Cloud.
-- [terraform-yacloud-modules/terraform-yandex-logging-group](https://github.com/terraform-yacloud-modules/terraform-yandex-logging-group) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-logging-group/releases/tag/v1.0.0), today) - Terraform module to manage Cloud Logging resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-audit-trails](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails) ([v2.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails/releases/tag/v2.0.0), 1 day ago) - Terraform module to manage Audit Trails resources within the Yandex.Cloud.
+- [openbao/openbao](https://github.com/openbao/openbao) ([v2.0.3](https://github.com/openbao/openbao/releases/tag/v2.0.3), 1 day ago) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [terraform-yacloud-modules/terraform-yandex-function](https://github.com/terraform-yacloud-modules/terraform-yandex-function) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-function/releases/tag/v1.0.0), 1 day ago) - Terraform module to manage Function resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-logging-group](https://github.com/terraform-yacloud-modules/terraform-yandex-logging-group) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-logging-group/releases/tag/v1.0.0), 1 day ago) - Terraform module to manage Cloud Logging resources within the Yandex.Cloud.
 
 #### Stats
 
