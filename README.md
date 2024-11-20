@@ -11,15 +11,15 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [terraform-yacloud-modules/terraform-yandex-clickops-notifier](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier) -  (today)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
 - [terraform-yacloud-modules/terraform-yandex-address](https://github.com/terraform-yacloud-modules/terraform-yandex-address) - Terraform module to manage address within the Yandex.Cloud (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-mongodb](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-mongodb) - Terraform module to manage MongoDB resources within the Yandex.Cloud. (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-greenplum](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-greenplum) - Terraform module to manage Greenplum resources within the Yandex.Cloud.  Resources (1 day ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-dataproc](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-dataproc) - Terraform module to manage Data Proc resources within the Yandex.Cloud. Resources (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-nlb](https://github.com/terraform-yacloud-modules/terraform-yandex-nlb) - Terraform module to manage Network Load Balancer resources within the Yandex.Cloud. (1 day ago)
+- [terraform-yacloud-modules/terraform-yandex-certificate-manager](https://github.com/terraform-yacloud-modules/terraform-yandex-certificate-manager) - Terraform module to manage Certificate Manager resources within the Yandex.Cloud (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-clickops-notifier](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier/releases/tag/v1.0.0), 2 days ago) - 
+- [terraform-yacloud-modules/terraform-yandex-clickops-notifier](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier) ([v1.1.1](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier/releases/tag/v1.1.1), today) - 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.7](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.7), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [terraform-yacloud-modules/terraform-yandex-mdb-postgresql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql/releases/tag/v1.0.0), 3 days ago) - Terraform module to manage PostgreSQL resources within the Yandex.Cloud.
 - [terraform-yacloud-modules/terraform-yandex-audit-trails](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails) ([v2.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails/releases/tag/v2.0.0), 5 days ago) - Terraform module to manage Audit Trails resources within the Yandex.Cloud.
