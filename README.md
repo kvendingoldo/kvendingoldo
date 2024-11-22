@@ -19,9 +19,9 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.8](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.8), today) - Deliver Go binaries as fast and easily as possible
 - [terraform-yacloud-modules/terraform-yandex-clickops-notifier](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier) ([v1.2.0](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier/releases/tag/v1.2.0), today) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.77.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.77.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [terraform-yacloud-modules/terraform-yandex-mdb-postgresql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql) ([v1.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql/releases/tag/v1.0.0), 5 days ago) - Terraform module to manage PostgreSQL resources within the Yandex.Cloud.
 - [terraform-yacloud-modules/terraform-yandex-audit-trails](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails) ([v2.0.0](https://github.com/terraform-yacloud-modules/terraform-yandex-audit-trails/releases/tag/v2.0.0), 1 week ago) - Terraform module to manage Audit Trails resources within the Yandex.Cloud.
 
