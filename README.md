@@ -14,12 +14,12 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 - [terraform-yacloud-modules/terraform-yandex-mdb-postgresql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql) - Terraform module to manage PostgreSQL resources within the Yandex.Cloud. (today)
 - [terraform-yacloud-modules/terraform-yandex-clickops-notifier](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier) -  (3 days ago)
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (5 days ago)
-- [terraform-yacloud-modules/terraform-yandex-alb](https://github.com/terraform-yacloud-modules/terraform-yandex-alb) - Terraform module to manage Application Load Balancer (ALB) resources within the Yandex.Cloud. (6 days ago)
-- [terraform-yacloud-modules/terraform-yandex-security-group](https://github.com/terraform-yacloud-modules/terraform-yandex-security-group) - Terraform module to manage VPC Security Group resources within the Yandex.Cloud. (6 days ago)
+- [terraform-yacloud-modules/terraform-yandex-function](https://github.com/terraform-yacloud-modules/terraform-yandex-function) - Terraform module to manage Function resources within the Yandex.Cloud. (6 days ago)
+- [terraform-yacloud-modules/terraform-yandex-mdb-ydb](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-ydb) - Terraform module to manage Yandex Database resources within the Yandex.Cloud. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [terraform-yacloud-modules/terraform-yandex-mdb-postgresql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql) ([v1.4.1](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql/releases/tag/v1.4.1), today) - Terraform module to manage PostgreSQL resources within the Yandex.Cloud.
+- [terraform-yacloud-modules/terraform-yandex-mdb-postgresql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql) ([v1.4.2](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql/releases/tag/v1.4.2), today) - Terraform module to manage PostgreSQL resources within the Yandex.Cloud.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.4.8](https://github.com/goreleaser/goreleaser/releases/tag/v2.4.8), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [terraform-yacloud-modules/terraform-yandex-clickops-notifier](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier) ([v1.2.0](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier/releases/tag/v1.2.0), 3 days ago) - 
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.77.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.77.0), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
