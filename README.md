@@ -19,9 +19,9 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Deliver Go binaries as fast and easily as possible
 - [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v3.2.11](https://github.com/tofuutils/tenv/releases/tag/v3.2.11), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
 - [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.81.0](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.81.0), 1 day ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.1.0](https://github.com/openbao/openbao/releases/tag/v2.1.0), 2 weeks ago) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [terraform-yacloud-modules/terraform-yandex-mdb-postgresql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql) ([v2.1.2](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql/releases/tag/v2.1.2), 2 weeks ago) - Terraform module to manage PostgreSQL resources within the Yandex.Cloud.
 
