@@ -11,17 +11,17 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (today)
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) - OpenTofu / Terraform / Terragrunt and Atmos version manager (1 day ago)
 - [terraform-yacloud-modules/terraform-yandex-mdb-clickhouse](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse) - Terraform module to manage ClickHouse resources within the Yandex.Cloud. (1 week ago)
 - [kvendingoldo/toolbox](https://github.com/kvendingoldo/toolbox) -  (2 weeks ago)
-- [terraform-yacloud-modules/terraform-yandex-mdb-postgresql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql) - Terraform module to manage PostgreSQL resources within the Yandex.Cloud. (3 weeks ago)
+- [terraform-yacloud-modules/terraform-yandex-mdb-postgresql](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-postgresql) - Terraform module to manage PostgreSQL resources within the Yandex.Cloud. (4 weeks ago)
 - [terraform-yacloud-modules/terraform-yandex-clickops-notifier](https://github.com/terraform-yacloud-modules/terraform-yandex-clickops-notifier) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.0.1](https://github.com/tofuutils/tenv/releases/tag/v4.0.1), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 3 days ago) - The AWS Provider enables Terraform to manage AWS resources.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 4 days ago) - Release engineering, simplified
+- [tofuutils/tenv](https://github.com/tofuutils/tenv) ([v4.0.3](https://github.com/tofuutils/tenv/releases/tag/v4.0.3), 1 day ago) - OpenTofu / Terraform / Terragrunt and Atmos version manager
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) ([v5.82.2](https://github.com/hashicorp/terraform-provider-aws/releases/tag/v5.82.2), 4 days ago) - The AWS Provider enables Terraform to manage AWS resources.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 5 days ago) - Release engineering, simplified
 - [terraform-yacloud-modules/terraform-yandex-mdb-clickhouse](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse) ([v1.9.0](https://github.com/terraform-yacloud-modules/terraform-yandex-mdb-clickhouse/releases/tag/v1.9.0), 1 week ago) - Terraform module to manage ClickHouse resources within the Yandex.Cloud.
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.1.0](https://github.com/openbao/openbao/releases/tag/v2.1.0), 3 weeks ago) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 
