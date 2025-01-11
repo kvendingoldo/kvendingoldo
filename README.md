@@ -11,7 +11,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/terraform-yourprovider-module-template](https://github.com/kvendingoldo/terraform-yourprovider-module-template) - OpenTofu/Terraform opensource module template (today)
+- [kvendingoldo/terraform-yourprovider-module-template](https://github.com/kvendingoldo/terraform-yourprovider-module-template) - OpenTofu/Terraform opensource module template (1 day ago)
 - [kvendingoldo/toolbox](https://github.com/kvendingoldo/toolbox) -  (1 month ago)
 - [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (2 months ago)
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (3 months ago)
