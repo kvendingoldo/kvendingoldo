@@ -11,16 +11,16 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (today)
-- [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (today)
-- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (today)
+- [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (1 day ago)
+- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (1 day ago)
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 day ago)
 - [kvendingoldo/toolbox](https://github.com/kvendingoldo/toolbox) -  (1 month ago)
 - [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Release engineering, simplified
-- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 1 day ago) - 
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 2 days ago) - 
 - [openbao/openbao](https://github.com/openbao/openbao) ([v2.1.0](https://github.com/openbao/openbao/releases/tag/v2.1.0), 1 month ago) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.
 - [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 7 months ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.4.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.4.0), 10 months ago) - Terraform module to manage OpenSearch resources.
