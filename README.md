@@ -15,7 +15,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (1 month ago)
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 month ago)
 - [kvendingoldo/toolbox](https://github.com/kvendingoldo/toolbox) -  (2 months ago)
-- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (3 months ago)
+- [yandex-cloud/docs](https://github.com/yandex-cloud/docs) - Yandex Cloud documentation (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
