@@ -19,7 +19,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Release engineering, simplified
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v2.8.2), today) - Release engineering, simplified
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 3 weeks ago) - Terraform module to manage OpenSearch resources.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 2 months ago) - 
 - [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 10 months ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
