@@ -11,7 +11,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (today)
+- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (1 day ago)
 - [kvendingoldo/aws-serverless-valkey-demo](https://github.com/kvendingoldo/aws-serverless-valkey-demo) -  (1 week ago)
 - [kvendingoldo/k8s-info](https://github.com/kvendingoldo/k8s-info) -  (1 month ago)
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (1 month ago)
