@@ -11,15 +11,15 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (6 days ago)
-- [kvendingoldo/aws-serverless-valkey-demo](https://github.com/kvendingoldo/aws-serverless-valkey-demo) -  (1 week ago)
+- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (1 day ago)
+- [kvendingoldo/aws-serverless-valkey-demo](https://github.com/kvendingoldo/aws-serverless-valkey-demo) -  (2 weeks ago)
 - [kvendingoldo/k8s-info](https://github.com/kvendingoldo/k8s-info) -  (1 month ago)
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (1 month ago)
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 3 days ago) - Release engineering, simplified
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), today) - Release engineering, simplified
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 1 month ago) - Terraform module to manage OpenSearch resources.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 3 months ago) - 
 - [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 10 months ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
