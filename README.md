@@ -15,7 +15,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 - [kvendingoldo/aws-serverless-valkey-demo](https://github.com/kvendingoldo/aws-serverless-valkey-demo) -  (1 month ago)
 - [kvendingoldo/k8s-info](https://github.com/kvendingoldo/k8s-info) -  (2 months ago)
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (2 months ago)
-- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (3 months ago)
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (4 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
