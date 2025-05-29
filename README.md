@@ -11,15 +11,15 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) -  (today)
+- [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (today)
 - [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS. (1 day ago)
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (1 day ago)
-- [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (1 day ago)
 - [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (1 month ago)
-- [kvendingoldo/aws-serverless-valkey-demo](https://github.com/kvendingoldo/aws-serverless-valkey-demo) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v1.4.1](https://github.com/kvendingoldo/test/releases/tag/v1.4.1), 1 day ago) - 
+- [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v2.9.0](https://github.com/kvendingoldo/test/releases/tag/v2.9.0), today) - 
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 2 months ago) - Terraform module to manage OpenSearch resources.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 4 months ago) - 
 - [kvendingoldo/aws-letsencrypt-lambda](https://github.com/kvendingoldo/aws-letsencrypt-lambda) ([0.31.4](https://github.com/kvendingoldo/aws-letsencrypt-lambda/releases/tag/0.31.4), 1 year ago) - The AWS Let&#39;s Encrypt Lambda with Terraform Automation is a comprehensive solution designed to automate the acquisition and renewal of SSL/TLS certificates for your web applications hosted on the AWS.
