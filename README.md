@@ -12,7 +12,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files (1 week ago)
-- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (3 weeks ago)
+- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (4 weeks ago)
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) - 🚀 Fully automated Git-flow management (1 month ago)
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) -  (2 months ago)
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) -  (2 months ago)
