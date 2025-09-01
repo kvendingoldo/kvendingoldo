@@ -11,8 +11,8 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/k8s-info](https://github.com/kvendingoldo/k8s-info) -  (5 days ago)
-- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (5 days ago)
+- [kvendingoldo/k8s-info](https://github.com/kvendingoldo/k8s-info) -  (6 days ago)
+- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) - Terraform module to manage OpenSearch resources. (6 days ago)
 - [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (1 week ago)
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files (1 month ago)
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) - 🚀 Fully automated Git-flow management (2 months ago)
@@ -21,8 +21,8 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) ([v1.5.0](https://github.com/kvendingoldo/ordnung/releases/tag/v1.5.0), 1 month ago) - Sorting YAML and JSON files
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.2.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.2.0), 2 months ago) - 🚀 Fully automated Git-flow management
-- [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.4.0](https://github.com/kvendingoldo/test/releases/tag/v8.4.0), 2 months ago) - 
-- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 5 months ago) - Terraform module to manage OpenSearch resources.
+- [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.4.0](https://github.com/kvendingoldo/test/releases/tag/v8.4.0), 3 months ago) - 
+- [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 6 months ago) - Terraform module to manage OpenSearch resources.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 7 months ago) - 
 
 #### Stats
