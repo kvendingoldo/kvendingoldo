@@ -23,7 +23,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.2.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.2.0), 6 months ago) - 🚀 Fully automated Git-flow management
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.4.0](https://github.com/kvendingoldo/test/releases/tag/v8.4.0), 7 months ago) - 
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 10 months ago) - Terraform module to manage OpenSearch resources.
-- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 11 months ago) - 
+- [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 1 year ago) - 
 
 #### Stats
 
