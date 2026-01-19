@@ -11,15 +11,15 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
+- [kvendingoldo/steam-games-list](https://github.com/kvendingoldo/steam-games-list) -  (today)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (3 weeks ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (1 month ago)
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) - 🚀 Fully automated Git-flow management (1 month ago)
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files (1 month ago)
-- [kvendingoldo/terraform-module-template](https://github.com/kvendingoldo/terraform-module-template) - OpenTofu/Terraform opensource module template (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) ([v1.6.0](https://github.com/kvendingoldo/ordnung/releases/tag/v1.6.0), 2 months ago) - Sorting YAML and JSON files
+- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) ([v1.6.0](https://github.com/kvendingoldo/ordnung/releases/tag/v1.6.0), 3 months ago) - Sorting YAML and JSON files
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.2.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.2.0), 7 months ago) - 🚀 Fully automated Git-flow management
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.4.0](https://github.com/kvendingoldo/test/releases/tag/v8.4.0), 7 months ago) - 
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 10 months ago) - Terraform module to manage OpenSearch resources.
