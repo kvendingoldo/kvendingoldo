@@ -11,15 +11,15 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (5 days ago)
-- [kvendingoldo/steam-games-list](https://github.com/kvendingoldo/steam-games-list) -  (4 weeks ago)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (6 days ago)
+- [kvendingoldo/steam-games-list](https://github.com/kvendingoldo/steam-games-list) -  (1 month ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 months ago)
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) - 🚀 Fully automated Git-flow management (2 months ago)
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files (2 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) ([v1.6.0](https://github.com/kvendingoldo/ordnung/releases/tag/v1.6.0), 3 months ago) - Sorting YAML and JSON files
+- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) ([v1.6.0](https://github.com/kvendingoldo/ordnung/releases/tag/v1.6.0), 4 months ago) - Sorting YAML and JSON files
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.2.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.2.0), 8 months ago) - 🚀 Fully automated Git-flow management
 - [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.4.0](https://github.com/kvendingoldo/test/releases/tag/v8.4.0), 8 months ago) - 
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 11 months ago) - Terraform module to manage OpenSearch resources.
