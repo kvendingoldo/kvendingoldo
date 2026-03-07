@@ -11,7 +11,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) - 🚀 Fully automated Git-flow management (1 week ago)
+- [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) - 🚀 Fully automated Git-flow management (2 weeks ago)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (3 weeks ago)
 - [kvendingoldo/steam-games-list](https://github.com/kvendingoldo/steam-games-list) -  (1 month ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (2 months ago)
