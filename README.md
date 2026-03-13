@@ -19,8 +19,8 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
-- [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.16.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.16.0), 2 weeks ago) - 🚀 Fully automated Git-flow management
-- [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.9.0](https://github.com/kvendingoldo/test/releases/tag/v8.9.0), 2 weeks ago) - 
+- [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.16.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.16.0), 3 weeks ago) - 🚀 Fully automated Git-flow management
+- [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.9.0](https://github.com/kvendingoldo/test/releases/tag/v8.9.0), 3 weeks ago) - 
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) ([v1.6.0](https://github.com/kvendingoldo/ordnung/releases/tag/v1.6.0), 4 months ago) - Sorting YAML and JSON files
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 1 year ago) - Terraform module to manage OpenSearch resources.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 1 year ago) - 
