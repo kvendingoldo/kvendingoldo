@@ -13,15 +13,15 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) - 🚀 Fully automated Git-flow management (3 weeks ago)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (1 month ago)
-- [kvendingoldo/steam-games-list](https://github.com/kvendingoldo/steam-games-list) -  (1 month ago)
+- [kvendingoldo/steam-games-list](https://github.com/kvendingoldo/steam-games-list) -  (2 months ago)
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers. (3 months ago)
 - [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) - Sorting YAML and JSON files (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.16.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.16.0), 3 weeks ago) - 🚀 Fully automated Git-flow management
-- [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.9.0](https://github.com/kvendingoldo/test/releases/tag/v8.9.0), 3 weeks ago) - 
-- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) ([v1.6.0](https://github.com/kvendingoldo/ordnung/releases/tag/v1.6.0), 4 months ago) - Sorting YAML and JSON files
+- [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.16.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.16.0), 4 weeks ago) - 🚀 Fully automated Git-flow management
+- [kvendingoldo/test](https://github.com/kvendingoldo/test) ([v8.9.0](https://github.com/kvendingoldo/test/releases/tag/v8.9.0), 4 weeks ago) - 
+- [kvendingoldo/ordnung](https://github.com/kvendingoldo/ordnung) ([v1.6.0](https://github.com/kvendingoldo/ordnung/releases/tag/v1.6.0), 5 months ago) - Sorting YAML and JSON files
 - [kvendingoldo/terraform-opensearch](https://github.com/kvendingoldo/terraform-opensearch) ([v0.5.0](https://github.com/kvendingoldo/terraform-opensearch/releases/tag/v0.5.0), 1 year ago) - Terraform module to manage OpenSearch resources.
 - [kvendingoldo/semver-action](https://github.com/kvendingoldo/semver-action) ([v1.20.6](https://github.com/kvendingoldo/semver-action/releases/tag/v1.20.6), 1 year ago) - 
 
