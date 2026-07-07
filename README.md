@@ -11,7 +11,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) - Helm chart for HAProxy Kubernetes Ingress Controller (today)
+- [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) - Helm chart for HAProxy Kubernetes Ingress Controller (1 day ago)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (3 weeks ago)
 - [kvendingoldo/k8s-info](https://github.com/kvendingoldo/k8s-info) -  (3 months ago)
 - [kvendingoldo/terraform-yandex-mdb-postgresql-v2](https://github.com/kvendingoldo/terraform-yandex-mdb-postgresql-v2) -  (3 months ago)
@@ -19,7 +19,7 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 
 #### 🔭 Latest releases I've contributed to
 
-- [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) ([haproxy-unified-gateway-1.1.0](https://github.com/haproxytech/helm-charts/releases/tag/haproxy-unified-gateway-1.1.0), 3 days ago) - Helm chart for HAProxy Kubernetes Ingress Controller
+- [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) ([haproxy-unified-gateway-1.1.0](https://github.com/haproxytech/helm-charts/releases/tag/haproxy-unified-gateway-1.1.0), 4 days ago) - Helm chart for HAProxy Kubernetes Ingress Controller
 - [databasus/databasus](https://github.com/databasus/databasus) ([v3.47.1](https://github.com/databasus/databasus/releases/tag/v3.47.1), 1 week ago) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [kvendingoldo/terraform-yandex-mdb-postgresql-v2](https://github.com/kvendingoldo/terraform-yandex-mdb-postgresql-v2) ([v0.1.0](https://github.com/kvendingoldo/terraform-yandex-mdb-postgresql-v2/releases/tag/v0.1.0), 3 months ago) - 
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.16.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.16.0), 4 months ago) - 🚀 Fully automated Git-flow management
