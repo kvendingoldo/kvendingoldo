@@ -11,15 +11,15 @@ I'm Lead DevOps Engineer, Co-Founder of [ReferrsMe](https://referrs.me/) & [Crow
 #### 👷 Currently working on
 
 
-- [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) - Helm chart for HAProxy Kubernetes Ingress Controller (4 days ago)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (4 weeks ago)
+- [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) - Helm chart for HAProxy Kubernetes Ingress Controller (5 days ago)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (1 month ago)
 - [kvendingoldo/k8s-info](https://github.com/kvendingoldo/k8s-info) -  (3 months ago)
 - [kvendingoldo/terraform-yandex-mdb-postgresql-v2](https://github.com/kvendingoldo/terraform-yandex-mdb-postgresql-v2) -  (3 months ago)
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification (3 months ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [databasus/databasus](https://github.com/databasus/databasus) ([v3.48.0](https://github.com/databasus/databasus/releases/tag/v3.48.0), today) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
+- [databasus/databasus](https://github.com/databasus/databasus) ([v3.48.0](https://github.com/databasus/databasus/releases/tag/v3.48.0), 1 day ago) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [haproxytech/helm-charts](https://github.com/haproxytech/helm-charts) ([haproxy-unified-gateway-1.1.0](https://github.com/haproxytech/helm-charts/releases/tag/haproxy-unified-gateway-1.1.0), 1 week ago) - Helm chart for HAProxy Kubernetes Ingress Controller
 - [kvendingoldo/terraform-yandex-mdb-postgresql-v2](https://github.com/kvendingoldo/terraform-yandex-mdb-postgresql-v2) ([v0.1.0](https://github.com/kvendingoldo/terraform-yandex-mdb-postgresql-v2/releases/tag/v0.1.0), 3 months ago) - 
 - [kvendingoldo/git-flow-action](https://github.com/kvendingoldo/git-flow-action) ([v2.16.0](https://github.com/kvendingoldo/git-flow-action/releases/tag/v2.16.0), 4 months ago) - 🚀 Fully automated Git-flow management
